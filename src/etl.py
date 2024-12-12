@@ -1,4 +1,3 @@
-# src/etl.py
 import time
 import requests
 from pymongo import MongoClient
