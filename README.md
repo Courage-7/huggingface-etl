@@ -2,10 +2,15 @@
 So, this project is an Extract, Transform, Load (ETL) pipeline designed to extract model metadata from the Hugging Face API, process the data, and load it into a MongoDB collection.
 
 ## Features
+
 Data Extraction: Fetches model metadata from the Hugging Face API.
+
 Data Validation: Cleans and validates the extracted data.
+
 Data Loading: Inserts the transformed data into a MongoDB collection.
+
 Error Handling: Includes robust logging and retries for API requests.
+
 Batch Processing: Processes data in batches for scalability.
 
 ## Requirements
