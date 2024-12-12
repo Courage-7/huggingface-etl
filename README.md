@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## HuggingFace ETL Pipeline
 So, this project is an Extract, Transform, Load (ETL) pipeline designed to extract model metadata from the Hugging Face API, process the data, and load it into a MongoDB collection.
 
@@ -25,7 +24,7 @@ MONGO_COLLECTION=models
 Install project dependencies with:
 pip install -r requirements.txt
 
-## Running
+### Running
 run script as a module relative to the project root ( python -m src.etl )
 if running the etl ( python -m src.etl ) flags an error.
 
