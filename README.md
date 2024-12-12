@@ -21,7 +21,9 @@ Batch Processing: Processes data in batches for scalability.
 
 ## Configuration
 MONGO_URI=mongodb://localhost:27017
+
 MONGO_DATABASE=huggingface_etl
+
 MONGO_COLLECTION=models
 
 
