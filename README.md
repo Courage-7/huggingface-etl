@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## HuggingFace ETL Pipeline
 So, this project is an Extract, Transform, Load (ETL) pipeline designed to extract model metadata from the Hugging Face API, process the data, and load it into a MongoDB collection.
 
@@ -33,3 +34,6 @@ if running the etl ( python -m src.etl ) flags an error.
 
 
 # ADIOS!
+=======
+# huggingface-etl
+>>>>>>> 83bd33e3691ee72d017007fe94da2b05e24f48f8
