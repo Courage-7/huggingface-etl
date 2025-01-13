@@ -20,7 +20,7 @@ Batch Processing: Processes data in batches for scalability.
 - Apache Spark
 
 ## Configuration
-MONGO_URI=mongodb://localhost:27017
+MONGO_URI=mongodb********
 
 MONGO_DATABASE=huggingface_etl
 
