@@ -13,6 +13,21 @@ Error Handling: Includes robust logging and retries for API requests.
 
 Batch Processing: Processes data in batches for scalability.
 
+## Project structure 
+Directory structure:
+└── courage-7-huggingface-etl/
+    ├── README.md
+    ├── requirements.txt
+    ├── src/
+    │   ├── __init__.py
+    │   ├── config.py
+    │   ├── etl.py
+    │   ├── utils.py
+    │   └── __pycache__/
+    └── tests/
+        ├── test_data_validation.py
+        └── tests_etl.py
+
 ## Requirements
 ### System Dependencies
 - Python 3.8+
@@ -36,10 +51,6 @@ run script as a module relative to the project root ( python -m src.etl )
 if running the etl ( python -m src.etl ) flags an error.
 
 
-
-
-
-# ADIOS!
 =======
 # huggingface-etl
->>>>>>> 83bd33e3691ee72d017007fe94da2b05e24f48f8
+
