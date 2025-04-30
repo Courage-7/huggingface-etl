@@ -13,9 +13,6 @@ Error Handling: Includes robust logging and retries for API requests.
 
 Batch Processing: Processes data in batches for scalability.
 
-## Project structure 
-Directory structure:
-
 courage-7-huggingface-etl/
 ├── src/
 │   ├── __init__.py
