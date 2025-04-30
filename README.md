@@ -15,18 +15,19 @@ Batch Processing: Processes data in batches for scalability.
 
 ## Project structure 
 Directory structure:
-└── courage-7-huggingface-etl/
-    ├── README.md
-    ├── requirements.txt
-    ├── src/
-    │   ├── __init__.py
-    │   ├── config.py
-    │   ├── etl.py
-    │   ├── utils.py
-    │   └── __pycache__/
-    └── tests/
-        ├── test_data_validation.py
-        └── tests_etl.py
+
+courage-7-huggingface-etl/
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── etl.py
+│   ├── utils.py
+│   └── __pycache__/
+├── tests/
+│   ├── test_data_validation.py
+│   └── tests_etl.py
+├── README.md
+└── requirements.txt
 
 ## Requirements
 ### System Dependencies
