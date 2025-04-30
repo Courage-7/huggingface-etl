@@ -13,18 +13,8 @@ Error Handling: Includes robust logging and retries for API requests.
 
 Batch Processing: Processes data in batches for scalability.
 
-courage-7-huggingface-etl/
-├── src/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── etl.py
-│   ├── utils.py
-│   └── __pycache__/
-├── tests/
-│   ├── test_data_validation.py
-│   └── tests_etl.py
-├── README.md
-└── requirements.txt
+## Project structure 
+<pre> ```bash courage-7-huggingface-etl/ ├── src/ │ ├── __init__.py │ ├── config.py │ ├── etl.py │ ├── utils.py │ └── __pycache__/ ├── tests/ │ ├── test_data_validation.py │ └── tests_etl.py ├── README.md └── requirements.txt ``` </pre>
 
 ## Requirements
 ### System Dependencies
