@@ -29,6 +29,7 @@ System Dependencies
 - Python 3.8+
 - MongoDB
 - Apache Spark
+- PySpark
 
 ## Configuration
 Set the following in your .env file or environment variables:
